@@ -7,7 +7,6 @@ Foi feito com ExpressJS https://expressjs.com/
 
 # Comandos:
 #
-#
 defina sua_pesquisa
 #
 pesquise sua_pesquisa
