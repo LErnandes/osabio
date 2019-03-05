@@ -6,7 +6,8 @@ O Sábio pesquisa imagens, vídeos, definições e faz pesquisas sobre conteúdo
 Foi feito com ExpressJS https://expressjs.com/
 
 # Comandos:
-
+#
+#
 defina sua_pesquisa
 #
 pesquise sua_pesquisa
