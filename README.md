@@ -4,7 +4,7 @@
 Este é um projeto feito por Luís Fernando Ernandes com o intuito de facilitar as buscas por conteúdo na web.
 O Sábio pesquisa imagens, vídeos, definições e faz pesquisas sobre conteúdo escolar.
 Foi feito com ExpressJS https://expressjs.com/
-
+#
 # Comandos:
 defina sua_pesquisa
 #
