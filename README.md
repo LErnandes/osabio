@@ -11,5 +11,7 @@ defina sua_pesquisa
 pesquise sua_pesquisa
 #
 youtube nome_do_vídeo
+#
 twitch nome_do_canal (o nome que fica no link do canal)
+#
 imagem nome_da_imagem
