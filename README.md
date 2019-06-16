@@ -9,12 +9,12 @@ Foi feito com ExpressJS https://expressjs.com/
 
 Comandos:
 
-*defina sua_pesquisa
+* defina sua_pesquisa
 
-*pesquise sua_pesquisa
+* pesquise sua_pesquisa
 
-*youtube nome_do_vídeo
+* youtube nome_do_vídeo
 
-*twitch nome_do_canal (o nome que fica no link do canal)
+* twitch nome_do_canal (o nome que fica no link do canal)
 
-*imagem nome_da_imagem
+* imagem nome_da_imagem
